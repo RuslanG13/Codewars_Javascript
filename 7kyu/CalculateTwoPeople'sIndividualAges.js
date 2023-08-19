@@ -15,7 +15,6 @@ const somNeg = 65;
 const differenceNeg = -5;
 
 
-
 // Solution
 function getAges(sum, difference) {
 
