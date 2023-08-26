@@ -1,4 +1,5 @@
 /**
+ * https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript
  * To find the volume (centimeters cubed) of a cuboid you use the formula:
 
 volume = Length * Width * Height
@@ -14,6 +15,8 @@ Return false for invalid numbers too (e.g volume or side is less than or equal t
 Note: side will be an integer
  */
 
+
+//Entry Data
 const volumePositiveCase = 125;
 const sidePositiveCase = 5;
 

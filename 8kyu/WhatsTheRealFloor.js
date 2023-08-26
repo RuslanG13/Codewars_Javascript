@@ -1,4 +1,5 @@
 /**
+ * https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript
  * Americans are odd people: in their buildings, the first floor is actually the ground floor and there is no 13th floor (due to superstition).
 
 Write a function that given a floor in the american system returns the floor in the european system.
@@ -19,7 +20,7 @@ Examples
  */
 
 
-//Entry data
+//Entry Data
 const floor1 = 1;
 const floor2 = 0;
 const floor3 = 5;
