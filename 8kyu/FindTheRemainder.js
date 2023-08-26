@@ -1,4 +1,5 @@
 /**
+ * https://www.codewars.com/kata/524f5125ad9c12894e00003f/train/javascript
  * Task:
 Write a function that accepts two integers and returns the remainder of dividing the larger value by the smaller value.
 
@@ -22,6 +23,8 @@ m = 1
 result - division by zero (refer to the specifications on how to handle this in your language)
  */
 
+
+//Entry Data
 const number1 = 17;
 const number2 = 5;
 
