@@ -10,11 +10,13 @@ sumMul(4, 123) ==> 4 + 8 + 12 + ... = 1860
 sumMul(4, -7)  ==> "INVALID"
  */
 
+
+// Entry data
 const num1 = 2;
 const num2 = 9;
 
 
-//Solution1
+//Solution 1
 function sumMul(n, m) {
     if (n <= 0 || m <= 0) return "INVALID";
 

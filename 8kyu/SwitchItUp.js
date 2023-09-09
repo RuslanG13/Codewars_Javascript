@@ -9,6 +9,8 @@
  * If your language supports it, try using a switch statement.
  */
 
+
+// Entry data
 let a = 8;
 let b = 1;
 let c = 5;

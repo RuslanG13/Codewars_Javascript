@@ -12,31 +12,40 @@
  */
 
 
+// Entry data
+const nameWithUpperCaseLetters1 = "Ruslan";
+const nameWithLowerCaseLetters1 = "ruslan";
+const nameWithUpperCaseLetters2 = "Oleg";
+const nameWithLowerCaseLetters2 = "aleksandr";
+
+
 // Solution 1
 function areYouPlayingBanjo(name) {
-    return name[0].toLowerCase().startsWith('r') ? name + " plays banjo" : name + " does not play banjo";
+    return name[0].toLowerCase().startsWith('r') ? `${name} plays banjo` : `${name} does not play banjo`;
 }
+
 
 // Solution 2
 function areYouPlayingBanjo2(name) {
-    return (name.startsWith("R") || name.startsWith("r")) ? name + " plays banjo" : name + " does not play banjo";
+    return (name.startsWith("R") || name.startsWith("r")) ? `${name} plays banjo` : `${name} does not play banjo`;
 }
+
 
 // Solution3
 function areYouPlayingBanjo3(name) {
-    if(name.startsWith("R") || name.startsWith("r")) {
-        return name + " plays banjo";
+    if (name.startsWith("R") || name.startsWith("r")) {
+        return `${name} plays banjo`
     } else {
-        return name + " does not play banjo";
+        return `${name} does not play banjo`;
     }
 }
 
 
 //Examples
-console.log(areYouPlayingBanjo("Ruslan"));
-console.log(areYouPlayingBanjo("ruslan"));
+console.log(areYouPlayingBanjo(nameWithUpperCaseLetters1));
+console.log(areYouPlayingBanjo(nameWithLowerCaseLetters1));
 console.log('------------------------------')
-console.log(areYouPlayingBanjo2("Oleg"));
-console.log(areYouPlayingBanjo2("aleksandr"));
+console.log(areYouPlayingBanjo2(nameWithUpperCaseLetters2));
+console.log(areYouPlayingBanjo2(nameWithLowerCaseLetters2));
 
 

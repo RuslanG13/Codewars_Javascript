@@ -6,6 +6,8 @@
  * Note: input will never be an empty string
  */
 
+
+// Entry data
 let x = "45385593107843568";
 
 
@@ -22,6 +24,7 @@ function fakeBin(x) {
 
     return arr.join('');
 }
+
 
 // Solution 2
 function fakeBin2(x) {
