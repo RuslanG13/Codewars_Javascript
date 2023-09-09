@@ -4,6 +4,8 @@
  * You're given one parameter, the original string. You don't have to worry with strings with less than two characters.
  */
 
+
+// Entry data
 const str1 = "eloquent";
 const str2 = "country";
 
@@ -12,6 +14,7 @@ const str2 = "country";
 function removeChar(str) {
     return str.slice(1, -1);
 }
+
 
 // Solution 2
 function removeChar2(str) {
