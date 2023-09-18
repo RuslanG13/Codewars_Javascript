@@ -21,7 +21,6 @@ const short1 = "Me";
 const short2 = "1";
 
 
-
 // Solution 1
 const solution = (a, b) => a.length < b.length ? (a + b + a) : (b + a + b);
 
