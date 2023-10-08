@@ -15,6 +15,8 @@
  * "Zach" --> 18
  */
 
+
+// Entry data
 const rightName = "Zach";
 const wrongName = "Adam";
 const emptyValue = null;

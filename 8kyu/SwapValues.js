@@ -6,6 +6,8 @@
  * Can you figure out what's wrong here?
  */
 
+
+// Entry data
 const arr = [1, 2];
 
 

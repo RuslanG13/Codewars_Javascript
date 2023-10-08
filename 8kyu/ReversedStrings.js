@@ -6,6 +6,8 @@
  * 'word'   =>  'drow'
  */
 
+
+// Entry data
 const x = 'world';
 
 

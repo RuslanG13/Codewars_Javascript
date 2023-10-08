@@ -9,6 +9,8 @@
  * ['hello', 'world', 'this', 'is', 'great']  =>  'hello world this is great'
  */
 
+
+// Entry data
 const words = ['hello', 'world', 'this', 'is', 'great'];
 
 

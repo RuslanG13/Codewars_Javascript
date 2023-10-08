@@ -12,6 +12,8 @@
  * You may consider that there will not be any empty arrays/vectors.
  */
 
+
+// Entry data
 const arr = [-52, 56, 30, 29, -54, 0, -110];
 
 

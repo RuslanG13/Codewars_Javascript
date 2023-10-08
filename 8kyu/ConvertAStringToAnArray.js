@@ -5,6 +5,8 @@
  * "I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
  */
 
+
+// Entry data
 const str1 = "Robin Singh";
 const str2 = "I love arrays they are my favorite";
 

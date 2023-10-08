@@ -13,6 +13,8 @@
  Zero alone is fine, don't worry about it. Poor guy anyway
  */
 
+
+// Entry data
 const entryNum = 100500;
 
 

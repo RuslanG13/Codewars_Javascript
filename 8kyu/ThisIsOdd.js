@@ -18,6 +18,8 @@
  * isOdd(5.23)--> false
  */
 
+
+// Entry data
 const num1 = 5;
 const num2 = 5.23;
 const num3 = 6;

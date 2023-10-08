@@ -11,6 +11,8 @@
  * a * to the left side of str, the second time will add a * to the right side, and so on.
  */
 
+
+// Entry data
 let str = "a";
 let num = 5;
 let num2 = 0;

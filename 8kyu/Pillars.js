@@ -12,6 +12,8 @@ Calculate the distance between the first and the last pillar in centimeters (wit
   });
  */
 
+
+// Entry data  
 const numberPillars = 11;
 const distanceBetwPillars = 15;
 const widthOfPillar = 30;

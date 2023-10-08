@@ -8,6 +8,8 @@
  * Either of the calculated ages come out to be negative
  */
 
+
+// Entry data
 const sumPos = 24;
 const differencePos = 4;
 

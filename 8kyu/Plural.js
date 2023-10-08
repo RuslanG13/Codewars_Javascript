@@ -10,6 +10,8 @@
  * All values will be positive integers or floats, or zero.
  */
 
+
+// Entry data
 const a = 0;
 const b = 0.5;
 const c = 1;

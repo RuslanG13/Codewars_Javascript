@@ -16,6 +16,8 @@
  *
  */
 
+
+// Entry data
 const str = "ababc";
 const a = "a";
 const b = "c";

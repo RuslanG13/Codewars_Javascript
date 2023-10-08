@@ -5,6 +5,7 @@
  * Note: Empty arrays should return 0.
  */
 
+
 // Entry data
 const array = [28, 45, 91, 91, 59, 5, 43, 44, 6, 91, 87, 37, 43, 67];
 const arr = [];

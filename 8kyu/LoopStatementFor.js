@@ -6,6 +6,8 @@
  * push it to the evenarray.
  */
 
+
+// Entry data
 const arr = [8, 1, 5, 4, 6, 1, 1];
 
 

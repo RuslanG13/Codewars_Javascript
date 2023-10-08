@@ -9,6 +9,8 @@
  * multiples of 2 up to 6.
  */
 
+
+// Entry data
 const integer = 2;
 const limit = 6;
 
