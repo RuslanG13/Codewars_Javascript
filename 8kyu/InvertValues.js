@@ -9,6 +9,8 @@
  * You can assume that all values are integers. Do not mutate the input array/list.
  */
 
+
+// Entry data
 const arr = [1, -2, -3, 4, 5];
 
 

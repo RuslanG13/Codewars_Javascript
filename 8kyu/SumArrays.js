@@ -19,6 +19,8 @@
  * You can assume that you do get an array and if the array is empty, return 0.
  */
 
+
+// Entry data
 const arrFull = [1, 5.2, 4, 0, -1];
 const arrEmpty = [];
 

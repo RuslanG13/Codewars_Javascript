@@ -13,6 +13,8 @@ Examples:
 "42", "number" --> false
  */
 
+
+// Entry data
 const number = 42;
 
 const typeOfVariable1 = 'number';

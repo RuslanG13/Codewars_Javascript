@@ -15,6 +15,8 @@
  * cutIt(["codewars","javascript","java"]) should return ["code","java","java"]
  */
 
+
+// Entry data
 const arr = ["codewars","javascript","java"];
 
 

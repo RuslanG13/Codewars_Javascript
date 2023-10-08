@@ -5,6 +5,8 @@
  * Example : n=5 --> [5,4,3,2,1]
  */
 
+
+// Entry data
 const entryValue = 5;
 
 

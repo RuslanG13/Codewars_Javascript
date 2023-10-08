@@ -7,6 +7,8 @@
  * Return true if the array contains the value, false if not.
  */
 
+
+// Entry data
 let a = [101, 45, 75, 105, 99, 107];
 let x = 107;
 let y = 180;

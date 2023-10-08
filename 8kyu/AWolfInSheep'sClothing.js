@@ -22,6 +22,8 @@
  * Output: "Pls go away and stop eating my sheep"
  */
 
+
+// Entry data
 const str1 = ["sheep", "sheep", "wolf"];
 const str2 = ["wolf", "sheep", "sheep", "sheep", "sheep", "sheep", "sheep"];
 const str3 = ["sheep", "sheep", "sheep", "sheep", "sheep", "wolf", "sheep", "sheep"];

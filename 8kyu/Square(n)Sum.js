@@ -5,6 +5,8 @@
  * For example, for [1, 2, 2] it should return 9 because 1^1 + 2^2 + 2^2 = 9.
  */
 
+
+// Entry data
 const arrFull = [0, 3, 4, 5];
 const arrEmpty = [];
 

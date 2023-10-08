@@ -7,6 +7,8 @@
  * Note: if there is nothing to sum, the sum is default to 0.
  */
 
+
+// Entry data
 const arr1 = [-1, -2, -3, -4, -5];
 const arr2 = [];
 const arr3 = [1, -2, 3, 4, 5];

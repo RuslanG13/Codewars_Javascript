@@ -11,6 +11,8 @@
  * y is not considered a vowel for this kata
  */
 
+
+// Entry data
 const str = "hello";
 const str2 = "HELLO";
 

@@ -15,6 +15,8 @@
  *
  */
 
+
+// Entry data
 const str = "My name is John";
 const separator1 = " ";
 const separator2 = "-";

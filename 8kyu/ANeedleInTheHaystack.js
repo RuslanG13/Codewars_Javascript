@@ -14,6 +14,8 @@
  * Note: In COBOL, it should return "found the needle at position 6"
  */
 
+
+// Entry data
 const haystack = ["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"];
 
 

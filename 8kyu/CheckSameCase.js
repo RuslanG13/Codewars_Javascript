@@ -17,6 +17,8 @@
  * '0' and '?' returns -1
  */
 
+
+// Entry data
 let a = "B";
 let b = "C";
 

@@ -16,6 +16,8 @@
  * For JavaScript: return true or false
  */
 
+
+// Entry data
 const arrPythagoreanTriple = [14993, 10857, 10340];
 const arrNoPythagoreanTriple = [3, 5, 9];
 

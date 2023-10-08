@@ -44,8 +44,6 @@ const getCount2 = (str) => {
 }
 
 
-
-
 // Examples
 console.log(getCount(string));
 

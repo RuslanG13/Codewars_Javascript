@@ -20,6 +20,8 @@ Examples: (Input --> Output)
 30 --> "drink whisky"
  */
 
+
+// Entry data
 const age1 = 13;
 const age2 = 17;
 const age3 = 18;

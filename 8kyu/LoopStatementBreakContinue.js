@@ -13,6 +13,8 @@
  * Return the bag after for loop finished.
  */
 
+
+// Entry data
 const dolls1 = ["Mickey Mouse", "Barbie doll", "Hello Kitty", "Hello Kitty", "Hello Kitty", "Snow white"];
 const dolls2 = ["Mickey Mouse", "Hello Kitty", "Snow white"]
 

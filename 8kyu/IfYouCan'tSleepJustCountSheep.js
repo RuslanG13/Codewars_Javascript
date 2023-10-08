@@ -5,6 +5,8 @@
  * Input will always be valid, i.e. no negative integers.
  */
 
+
+// Entry data
 const number = 3;
 
 // Solution 1

@@ -15,6 +15,8 @@
  * alienLanguage("Hello World") should return "HELLo WORLd"
  */
 
+
+// Entry data
 const str1 = "My name is John";
 const str2 = "this is an example";
 

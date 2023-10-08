@@ -8,6 +8,8 @@
  * Function should return true if it is possible and false if not.
  */
 
+
+// Entry data
 let distanceToPump = 50;
 let distanceToPump2 = 51;
 let mpg = 25;

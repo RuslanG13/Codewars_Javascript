@@ -10,6 +10,8 @@
  * Input will always be a non-negative integer.
  */
 
+
+// Entry data
 const num1 = 0;
 const num2 = 0;
 

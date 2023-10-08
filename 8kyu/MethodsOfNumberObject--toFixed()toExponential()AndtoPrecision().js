@@ -14,6 +14,8 @@
  * howManySmaller([3.1288,3.1212,3.1205],3.1212) should return 2
  */
 
+
+// Entry data
 const arr = [3.1288, 3.1212, 3.1205];
 const n = 3.1212;
 
