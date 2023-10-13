@@ -39,8 +39,6 @@ const language1 = "JavaScript";
 const language2 = "Java";
 
 
-
-
 // Solution 1
 const findAdmin = (list, lang) => list.filter(el => el.language === lang && el.githubAdmin === "yes");
 
